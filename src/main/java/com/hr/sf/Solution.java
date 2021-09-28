@@ -447,7 +447,7 @@ public class Solution {
 
         System.out.println("寻找数组中的中位数："+s.findMedianSortedArrays(new int[]{0,7},new int[]{2,6}));
 
-        System.out.println("最长回文子串："+s.longestPalindrome("abab"));
+        System.out.println("最长回文子串："+s.longestPalindrome("ababacvb"));
     }
 
     public static class ListNode{
